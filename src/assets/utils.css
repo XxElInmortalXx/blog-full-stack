@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    @apply w-[90%] max-w-2xl mx-auto;
+}
+
+.container-medium {
+    @apply w-[90%] max-w-xl mx-auto;
+}
+
+.container-small {
+    @apply w-[90%] max-w-lg mx-auto;
+}
+
+.text-header-page {
+    @apply py-8 font-bold uppercase text-center text-4xl sm:text-5xl md:text-6xl lg:text-7xl
+}
+
+.image-class {
+    @apply w-full rounded-md max-h-96 object-cover shadow-md aspect-video
+}
