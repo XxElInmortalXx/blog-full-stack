@@ -4,7 +4,6 @@ Author: [Andres Eduardo Rosas Alpiri](https://github.com/XxElInmortalXx)
 <img src="./public/image.png">
 
 <br />
-<br />
 
 ```javascript
 
